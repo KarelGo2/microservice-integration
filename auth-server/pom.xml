@@ -29,7 +29,7 @@
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
-            <version>1.2.1</version>
+            <version>2.1.4</version>
         </dependency>
 
         <!--add feign client-->
@@ -110,7 +110,7 @@
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
             <artifactId>jjwt</artifactId>
-            <version>0.6.0</version>
+            <version>0.9.1</version>
         </dependency>
 
         <dependency>
